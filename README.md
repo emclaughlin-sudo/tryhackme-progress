@@ -2,7 +2,7 @@
 Tracking my TryHackMe journey and room writeups
 # TryHackMe Progress
 
-![TryHackMe](https://raw.githubusercontent.com/emclughlin-sudo/tryhackme-progress/master/assets/thm_propic.png)
+![TryHackMe](https://raw.githubusercontent.com/emclaughlin-sudo/tryhackme-progress/main/assets/thm_propic.png)
 
 ## Stats
 - **Rooms completed:** 0
