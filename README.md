@@ -5,7 +5,7 @@ Tracking my TryHackMe journey and room writeups
 ![TryHackMe](https://raw.githubusercontent.com/emclaughlin-sudo/tryhackme-progress/main/assets/thm_propic.png)
 
 ## Stats
-- **Rooms completed:** 8
+- **Rooms completed:** 9
 - **Current rank:** Pathfinder
 - **Active path:** Pre-Security
 
