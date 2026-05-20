@@ -5,16 +5,16 @@ Tracking my TryHackMe journey and room writeups
 ![TryHackMe](https://raw.githubusercontent.com/emclaughlin-sudo/tryhackme-progress/main/assets/thm_propic.png)
 
 ## Stats
-- **Rooms completed:** 9
-- **Current rank:** Pathfinder
+- **Rooms completed:** 20
+- **Current rank:** Seeker
 - **Active path:** Pre-Security
 
 ---
 
 ## Pre-Security Path
-- [ ] Introduction to Cyber Security
-- [ ] Network Fundamentals
-- [ ] How the Web Works
+- [X] Introduction to Cyber Security
+- [X] Network Fundamentals
+- [X] How the Web Works
 - [ ] Linux Fundamentals Part 1
 - [ ] Linux Fundamentals Part 2
 - [ ] Linux Fundamentals Part 3
