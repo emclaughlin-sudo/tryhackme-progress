@@ -6,8 +6,8 @@ Tracking my TryHackMe journey and room writeups
 
 ## Stats
 - **Rooms completed:** 29
-- **Current rank:** Seeker
-- **Active path:** Pre-Security
+- **Current rank:** Voyager
+- **Active path:** Cybersecurity 101
 
 ---
 
@@ -15,7 +15,7 @@ Tracking my TryHackMe journey and room writeups
 - [X] Introduction to Cyber Security
 - [X] Network Fundamentals
 - [X] How the Web Works
-- [ ] Linux Fundamentals Part 1
+- [X] Linux Fundamentals Part 1
 - [ ] Linux Fundamentals Part 2
 - [ ] Linux Fundamentals Part 3
 - [ ] Windows Fundamentals Part 1
